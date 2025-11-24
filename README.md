@@ -1,22 +1,9 @@
-# 🖥️ Guía Completa: Crear tu Propio Servidor Nextcloud en Hardware Antiguo
+# 🖥️ Guía: Crear tu Propio Servidor Nextcloud
 
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-Servidor%20Personal-blue)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04%20LTS-orange)
 ![PHP](https://img.shields.io/badge/PHP-8.3-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
-
-## 📋 Tabla de Contenidos
-- [Introducción](#introducción)
-- [Especificaciones del Equipo](#especificaciones-del-equipo)
-- [Requisitos del Sistema](#requisitos-del-sistema)
-- [Instalación del Stack LAMP](#instalación-del-stack-lamp)
-- [Configuración de MariaDB](#configuración-de-mariadb)
-- [Tabla de Compatibilidad](#tabla-de-compatibilidad)
-- [Instalación de Nextcloud](#instalación-de-nextcloud)
-- [Seguridad del Servidor](#seguridad-del-servidor)
-- [Mantenimiento](#mantenimiento)
-- [Ventajas y Desventajas](#ventajas-y-desventajas)
-- [Conclusión](#conclusión)
 
 ## 🚀 Introducción
 
@@ -405,20 +392,6 @@ free -h
 | **Dependencia de conexión** | Considerar acceso offline con apps móviles |
 | **Curva de aprendizaje** | Documentar procesos y aprender gradualmente |
 
-## 🎯 Conclusión
-
-Crear tu propio servidor Nextcloud en hardware antiguo es un proyecto gratificante que combina:
-
-- **Sostenibilidad:** Revivir equipos que de otra manera serían desechados
-- **Educación:** Aprender administración de sistemas, redes y seguridad
-- **Independencia:** Recuperar el control sobre tus datos digitales
-
-**Recomendaciones finales:**
-1. Comienza con hardware que tengas disponible
-2. Documenta cada paso del proceso
-3. Implementa medidas de seguridad desde el inicio
-4. Establece rutinas de mantenimiento regular
-5. Únete a la comunidad Nextcloud para soporte
 
 ### 📚 Recursos Adicionales
 - [Documentación Oficial Nextcloud](https://docs.nextcloud.com/)
