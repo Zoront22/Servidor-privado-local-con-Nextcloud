@@ -22,7 +22,7 @@ Esta guía documenta el proceso completo de creación de un servidor personal Ne
 | **Equipo** | Laptop HP 240 G4 Notebook PC |
 | **Procesador** | Intel Dual Core |
 | **RAM** | 4 GB DDR3 |
-| **Almacenamiento** | SSD 500 GB |
+| **Almacenamiento** | HDD 500 GB |
 | **Sistema Operativo** | Ubuntu Server 24.04 LTS (o cualquier otro SO de linux) |
 | **Conexión de Red** | Ethernet/WiFi integrado |
 
